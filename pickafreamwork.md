@@ -1,10 +1,87 @@
-# Choosing a framework: combating descision paralysis
+# Choosing Your First Frontend Framework
+
 ## Are you ready for a framework?
-You may not be ready to choose a javscript framework for web. Current web design is like the wild west, with various different tools, frameworks and libraries vying to solve the same solutions. Without a solid foundation of javscript, html and css you simply will not be flexible enough to be able to easily switch between frameworks, or have much more difficulty in doing so. It is almost a given that whatever framework you choose will eventually become obsolete, and if you are unable to freely learn and switch between frameworks you will become stuck working on an obsolete technology. 
 
-Having strong foundations can be compared to the way a classical muscisian is trained to understand music itself, and all of it's complexities. They are able to transition and play a wide variety of different genres, because of their strong musical foundations. Muscisians that have only trained in the specifics of pop or rock may find it difficult or even impossible to change to another genre of music, because they lack that foundation. 
+You may not be ready to choose a framework for web development. Current web design is like the wild west, with many different tools, frameworks and libraries vying to solve the same problems. Without a solid foundation of javscript, html and css you will not be flexible enough to be able to easily switch between frameworks. It is almost a given that whatever framework you choose will eventually become obsolete, and if you are unable to change and learn new tools you will be stuck working on an obsolete technology. 
 
-If you are unsure which camp you fall into, start a small project and limit youself to only vanilla javascript, css and html. Add a simple ajax call and form validation to your website. If you feel confident iility to create a functioning website, you're probably ready to start on a framework. Just because you are working on something like React or vue, it doesn't mean you are not contining to learn native web development skills, so you don't need to be an expert going in. You do need enough knowloedge to be able to differentiate between what 
+The key to knowing when to swich is by gauging the nature and the passion of the frusteration which you will inevitably feel when developing on native tools. Developing functional websites and web applications with only vanilla tools is often tedius, and as projects become larger it becomes very complex. Like most things that are complicated and tedius, it is also incredibly frusterating at times for professionals and beginners alike. Hold on to this frusteration, it can be one of your most important tools to develop into a strong developer. Try and categorize your annoyances, and compartmentalize  your vexation. The most important part of this isn't to be self flagelating, sitting at the most notorious programming bars and saying you made everything from scratch, but to recognize patterns. You'll notice that very often the reason things piss you off so much is it's *the same exact frickin thing* over and over. 
 
+note for george: these should be more compelling
+
+**Where the hell is this change coming from?! I know I wrote it but i can't remember WHERE?**
+
+**Great, another silent error. I'm so glad that javascript is so well designed and everything fails silently and i have to go through my entire codebase to find it**
+
+**hmm, the more i think about it the more i realize putting everything in this one single file may have not been a great idea**
+
+You may not realize it but you are building *fluency* in javascript and programming in general. When someone mentions unresolved promises you will feel areal and visceral feeling deep in your chest that was never there before. This fluency is more than just having a good handle on the language, it includes all of the other hidden skills it takes to excel as a programmer, things that are nessicary to understand and choose a framework. Some of these skills are being able to recognize annoying patterns in your code, following a nasty bug from the very begginging until your finally squash it, and being able to quickly and effeciently copy and paste a function from stack overflow. 
+
+
+Here is a small list of vanilla tutorials to get you started:
+### Acticles 
 ## I'm ready, tell me which is the best
-Currently which framework is the best to learn for a beginner? You could ask 20 different web developers and get 20 different answers and 20 different resons for their answers. There are about a thousand different developers that completely disagree with my opening paragraph. All of these developers are completely correct. As you progress in in your web development career you will find that no matter how trivial or inane a descision is, there is about 10 different ways to accomplish it, non of which stand out as the correct answer. You ask your senior which is the best, and he answers with the dreaded and ever looming **It Depends**. This is always the answer, to every questions in computer science, usually backed up with knowledge about bundle sizes and page load sizes, bloated node depencies and increasing code complexity. This answer is not very helpful if you have never  
+
+1 the best depends 
+
+2 how to you pick if it depends 
+
+3 it doesn't really matter
+
+5 programming fluency 
+
+6 the happy path
+
+7 programmers are technical people giving opioniated answers (straight answer)
+
+Once you feel sufficiently ready to choose a framework, you find yourself in an almost completely new world. This is not the world of cold, hard boolean logic and depth first searches. It is the world of **opiniated programming**. We could go back to the bar i mentioned earlier, and ask the the many patrons the same question. What framework would it be best to learn first? They would all answer something completely different, and even the ones that agree would probably give you completely different reasons as to why. One of them would invariably tell you (rather snarkily) that frameworks are a waste of time and you can should just stick with vanilla javascript. This isn't the big problem, the big problem is that **They are all correct**.   
+
+In programming in general, and web development specifically there are usually an almost infinite different tools,methods and plans you can use to attack a problem. If you ask someone with more expierience which is best or she will almost answer the same: **It Depends**. The reason for this is because **It Depends** is the only answer. **It Depends** is the  *correct* answer to waht you asked. Even better, it is the ***technically** correct* answer. To you, as a beginner, it's also an entirely useless answer.
+
+The reasoning behind **It Depends** is because of opiniated programming that I mentioned earlier. The problems that you ran into during your vanilla javascript days are not unique, and framworks and other programming libraries are some very clever peoples best try to solve those problems. They are not however, a universal truth and certainly not built to be some answer to an entirely logical question. our question from before:
+
+**Where the hell is this change coming from?! I know I wrote it but i can't remember WHERE? Have you forsaken me god? should i just become a farmer?**
+
+can be standaridized into one that may be easier to turn into something actually useful:
+
+**Is there a way to manage changes so that I can better unnderstand where they come from, and more easily debug them?**
+
+Notice, however that while this question has a logical base, it is still rather open ended and much leans much more towards organizing the program to compensate for our human foible rather than some rigourous test of logic that can be solved with our big big programming brains.  The opinion is sort of baked in, because there is no way to answer a question like that. It's like asking what the meaning of life is. It's not just logical, it'smuch much worse. It's philsophical. A good programmer knows all this and that's why she will hit you with that stone cold **it depends** even though the problem seems simple enough at first. 
+The answer really does depend, sometimes on strictly logical things like : 
+
+how much space will it take up in the project?
+
+is the solution buggy?
+
+is the solution fast?
+
+but more often than that its:
+
+Will it be easy for everyone on the team to learn
+
+will i enjoy using it everyday?
+
+am i the kind of person who would rather just do it myself?
+
+
+A Programmer answering with **it depends** is sort of like a robot malfunctioning when you ask it if it loves you or if it has feelings. Programmers are creatures of hard, cold logic trying to answer a question that quite simply doesn't have one simple, logical answer.  
+
+back to our question from before:
+
+What *is* the meaning of life?
+
+Try and make your answer logical,precise,succinct and with no room for any mistake or oversight and you might see the answer. 
+
+
+## Just Use React
+
+1 commmunity
+
+2 if you hate react you will still learn skills that will translate (patterns)`
+
+## Closing
+ 
+ 1 moralizing call to action
+
+ 2 it doesn't matter
+
+ 3you'll get there don't worry 
