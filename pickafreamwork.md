@@ -78,10 +78,42 @@ Try and make your answer logical,precise,succinct and with no room for any mista
 
 2 if you hate react you will still learn skills that will translate (patterns)`
 
+3The happy path
+
+If you're still wondering how to pick a framework, the answer really is it doesn't particularly matter which framework you choose to work with. You're not locked in in if you hate it, and you simply don't have enough information to choose at this point in you're career. Definitely choose something popular though, because of the **community**. 
+The easiest way to understand how good a community is is to undesrtand how niche of a question will have to be before it results in an unanswered stack overflow question. A bad community will have no results for something like "how do I append an item to a list?" while a good one will have answers for things like "My birthday was on a leap year which was also the crescent moon, what is the best way to calculate the amount of years until the next crescent moon of a leap year that falls on a saturday?". 
+If you want the best community, choose react. It's simply the biggest and most active framework right now, and to a beginner that almost* makes all other things irrelevant. When you have questions it will be reltaviley easy to find solutions, and there are a plethora of resources and tutorials to learn from when you are starting out. That React happens to be a very good framework with a relatively* easy learning curve and pretty good debugging tools. Do at least one project with react before you start fully decide to hate it, but once you do you'll find you have similiar questions to your old javascript days in the beginning of this article. 
+
+**why it so goddamn hard to update this one value without getting an infinite loop**
+
+**okay so i guess i like immutable data, but does eveything *have* to be immutable**`
+
+**It's so smart and scalable to lift state through ten different componets, im so glad for one way data flow. Programming should be annoying and hard all the time.**
+
+and so forth.
+
+And once you get to fed up, you might be ready for the next framework, or you might find solutions in your own framework. It's almost always worth trying something new, and not just because of hype or the general extensional dread of becoming obsoltete, but because you simply might like it *a lot* better than what your currently using. The new framework will be like a breath of fresh air, solving every problem into you realize that FRICKEN svelt doesn't let you **INSERT GOOD EXAMPLE HERE**.
+
+
+
+*note that saying relatively,most of the time, almost always is basically the only way to say anything in computer science and be **technically correct** always remember the one, only true answer to your qeustions... 
+
+**it depends**
 ## Closing
+
  
  1 moralizing call to action
 
  2 it doesn't matter
 
  3you'll get there don't worry 
+
+ This article  is not meant to be discouraging, but becoming a competant web devloper truly is a long road. There aren't any shortcuts that won't end up shooting yourself in the foot in the long run. What it is meant to do is to stop you from overthinking. Descision paralysis is a real thing for developers at all levels, not just beginners. And while it is always worthwhile to be thoughtful and directed in your choices, you will always come to a point where it's basically a coing flip. IF you can't flip the coin, you'll choose anything and you'll be stuck forever.
+
+ The great Isaav asmiov wrote a story to this effect. **INSERT LINK**
+
+
+ FIN
+
+
+
